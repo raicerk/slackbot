@@ -1,0 +1,16 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Bot de nodejs para slack",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "slack",
+    "bot"
+  ],
+  "author": "Juan Mora",
+  "license": "MIT"
+}
